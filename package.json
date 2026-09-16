@@ -1,10 +1,11 @@
-﻿{
+{
   "name": "cn-moderation-service",
   "version": "1.0.0",
   "description": "Standalone offline content moderation microservice with REST APIs for text and image safety verification",
   "main": "server.js",
   "type": "module",
   "scripts": {
+    "build": "node localModeration/train.js",
     "start": "node server.js",
     "dev": "node --watch server.js",
     "train": "node localModeration/train.js",

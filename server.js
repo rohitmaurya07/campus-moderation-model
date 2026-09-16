@@ -371,8 +371,7 @@ app.use((err, req, res, next) => {
 
 // Start Server
 if (process.env.NODE_ENV !== 'test') {
-  const server = app.listen(PORT, () => {
-    console.log(`========================================================`);
+  const server = app.listen(PORT, "0.0.0.0",() => {
     console.log(` CampusNest Moderation Microservice`);
     console.log(` Server running on http://localhost:${PORT}`);
     console.log(` Health Check:       http://localhost:${PORT}/health`);
