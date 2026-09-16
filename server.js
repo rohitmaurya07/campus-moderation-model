@@ -377,7 +377,6 @@ if (process.env.NODE_ENV !== 'test') {
     console.log(` Health Check:       http://localhost:${PORT}/health`);
     console.log(` API Documentation:  http://localhost:${PORT}/`);
     console.log(` Engine State:       ${isEngineReady ? 'INITIALIZED (Offline CPU Mode)' : 'INITIALIZATION FAILED'}`);
-    console.log(`========================================================`);
   });
 
   // Graceful shutdown
