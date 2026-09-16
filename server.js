@@ -39,9 +39,7 @@ const RATE_LIMIT_MAX = parseInt(process.env.RATE_LIMIT_MAX || '600', 10);
 // Initialize Moderation Engine on startup
 const isEngineReady = initLocalModeration();
 
-// ==========================================
 // Security & Middleware Configuration
-// ==========================================
 
 app.use(helmet({ contentSecurityPolicy: false }));
 app.use(cors({
@@ -69,6 +67,8 @@ const upload = multer({
     }
   },
 });
+
+app.set("trust proxy", 1);
 
 // Rate Limiter
 const limiter = rateLimit({
@@ -107,9 +107,7 @@ const authenticateApiKey = (req, res, next) => {
 };
 
 // Routes
-/**
- * Root Index & API Documentation
- */
+// Root Index & API Documentation
 app.get('/', (req, res) => {
   res.json({
     service: 'CampusNest Content Moderation Microservice',
