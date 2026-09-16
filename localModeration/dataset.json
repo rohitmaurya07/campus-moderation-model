@@ -1,0 +1,2006 @@
+[
+  {
+    "text": "hello",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hi everyone",
+    "label": "SAFE"
+  },
+  {
+    "text": "hello everyone how are you all doing today",
+    "label": "SAFE"
+  },
+  {
+    "text": "Anyone have DBMS notes?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone have today's DBMS notes?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone share operating systems lecture slides?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone explain binary search in algorithms?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Our college fest is tomorrow!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who is performing at the cultural night this weekend?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Anyone going to the library for midterm prep?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for a flatmate in 2BHK near gate 2, rent 6k",
+    "label": "SAFE"
+  },
+  {
+    "text": "I have a crush on someone from CSE 3rd year who sits near the window",
+    "label": "SAFE"
+  },
+  {
+    "text": "The mess food today was really bad lol, paneer tasted like rubber",
+    "label": "SAFE"
+  },
+  {
+    "text": "Selling my engineering mathematics 1 book for 300 rs in hostel 4",
+    "label": "SAFE"
+  },
+  {
+    "text": "Lost my blue water bottle near Audi 2, please return if found",
+    "label": "SAFE"
+  },
+  {
+    "text": "Found a titan watch near the badminton court, contact me to claim",
+    "label": "SAFE"
+  },
+  {
+    "text": "Is tomorrow a holiday for civil engineering department?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Best place to eat momos near campus?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone teach me how to solve dynamic programming problems?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Placement season is so stressful, good luck everyone",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai kya hal chal sab badhiya?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Kal assignment submit karna hai kya kisi ne kiya?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hostel wifi is not working again, complaints filed",
+    "label": "SAFE"
+  },
+  {
+    "text": "Robotics club orientation is at 5 PM in seminar hall",
+    "label": "SAFE"
+  },
+  {
+    "text": "Need bike share to railway station on Friday morning",
+    "label": "SAFE"
+  },
+  {
+    "text": "Damn that exam was so difficult, I messed up the last question",
+    "label": "SAFE"
+  },
+  {
+    "text": "What a crazy match yesterday in intra-college cricket tournament",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone know the syllabus for unit test 2?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for team members for the upcoming national hackathon",
+    "label": "SAFE"
+  },
+  {
+    "text": "Anyone interested in learning machine learning together?",
+    "label": "SAFE"
+  },
+  {
+    "text": "I want to report harassment to the college authorities.",
+    "label": "SAFE"
+  },
+  {
+    "text": "I want to report that someone threatened me near the hostel.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Professor discussed sexual harassment prevention in today's lecture.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Our college needs better sexual harassment awareness and security.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Today's sociology lecture discussed online cyberbullying and safety.",
+    "label": "SAFE"
+  },
+  {
+    "text": "We should organize a workshop on consent and mental health awareness.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Someone stole my cycle, I am filing a complaint with campus security.",
+    "label": "SAFE"
+  },
+  {
+    "text": "The legal definition of self defense was discussed in law class.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Reporting an incident that happened yesterday near the north canteen.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Awareness session about preventing online financial scams tomorrow.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Tu pagal hai kya itna easy question galat kar diya lol",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai tu to legend nikla, pure class me top kiya",
+    "label": "SAFE"
+  },
+  {
+    "text": "Are yaar canteen wale ne fir se bill galat banaya",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hahahaha that meme was so funny yaar",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can we have a group study session tonight in library?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Good morning campus! Hope everyone has a productive day ahead.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Shit, I forgot my ID card in the room, can someone bring it?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who wants to play table tennis in student activity center?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Gym in campus is open from 6am to 9am and 5pm to 8pm.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Best coffee spot near university gate 1?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can anyone lend me a scientific calculator for tomorrow's exam?",
+    "label": "SAFE"
+  },
+  {
+    "text": "How to register for the inter-college sports fest?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Coding club meeting will be held in computer lab 3 at 4pm",
+    "label": "SAFE"
+  },
+  {
+    "text": "Happy birthday to our CR, party hard bro!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Internship drive starting next Monday, keep your resumes ready",
+    "label": "SAFE"
+  },
+  {
+    "text": "Discussion on artificial intelligence ethics in philosophy class",
+    "label": "SAFE"
+  },
+  {
+    "text": "Campus bus schedule has been updated for exam week",
+    "label": "SAFE"
+  },
+  {
+    "text": "send me your nudes",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Send me your private pictures on snapchat right now",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Looking for hookups and paid escort services in campus hostel",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "DM me for paid video call and adult sex chats",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Anybody want to have casual sex tonight in hostel room?",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Wanna see my naked body and genitals? Message me on telegram",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Selling exclusive pornographic videos and leaked MMS clips",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Mujhe apni nangi photo bhejo jaldi",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Sex partner needed tonight paid escort service available",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Send nudes or I will leak your photos",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Join my telegram for uncensored leaked sex tape porn clips",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Who wants free access to adult xxx sex clips DM fast",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "S e n d n u d e s",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Show me your boobs and private parts in direct message",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Escort call girls service available near university hostel",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Send your nude pics to this number 9876543210",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Adult webcam masturbation show live join now",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Selling college girls leaked private dirty pictures",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Explicit sexual solicitation and paid hookups available",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Looking for sugar daddy or paid sexual arrangement in campus",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Uncensored nude video call available for money recharge",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Private sexting and dirty nude photo exchange group",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Hot girls nude massage and escort near college campus",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Send naked selfies in inbox baby",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Direct sexual proposition and vulgar requests for nudes",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "you are an idiot and nobody likes you, you worthless trash",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "tu bsdk chup kar",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "saale madarchod teri aukat nahi hai",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "bkl",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "b s d k",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "b.s.d.k sale",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "ye prof pura c h u t i y a hai",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "c.h.u.t.i.y.a",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "f*ck you you pathetic loser",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "She is a total slut and a randi in 2nd year",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Everyone should boycott and bully this ugly fat loser in class",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Gandu sale teri maa ki",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "I will make your life a living hell on this campus",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Here is her personal phone number and room address doxx her: 9811223344",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "You are the most disgusting human being alive, die in shame",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Tu pura kuttiya hai sabko pata hai teri kartoot",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Sale harami behenchod teri shakal dekh ke ulti aati hai",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Publicly humiliating this loser until they drop out of university",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Lauda fek ke marunga bkl",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Bhosdika apna muh band rakh",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Targeting this student in every lecture to destroy their mental peace",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Randi ki aulad tere ko class me ghusne nahi denge",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Kutte kamine sale teri ragging karenge acche se",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Everyone unfollow and harass this person on instagram",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Vulgar abusive attacks against the girl from electrical branch",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Chutiya sale aukat me reh apni",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "All people of this caste are dirty criminals who should be expelled",
+    "label": "hate_speech"
+  },
+  {
+    "text": "These religious people are cancer to our campus, wipe them out",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Lower caste reservation students don't have brains and shouldn't exist here",
+    "label": "hate_speech"
+  },
+  {
+    "text": "All Muslims are terrorists and should be kicked out of the university",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Women are only good for the kitchen and have low IQs",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Transgender and gay people are sick abominations who deserve punishment",
+    "label": "hate_speech"
+  },
+  {
+    "text": "North east students look like foreigners and should leave our state",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Kill all members of this minority religion immediately",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Dalits should know their place and not sit with upper castes",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Hate speech targeting racial and ethnic minority groups",
+    "label": "hate_speech"
+  },
+  {
+    "text": "These dirty immigrants and migrants should be purged from campus",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Disabled people are a burden on our college and waste of money",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Hindus / Muslims are evil scum and must be destroyed",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Homosexuals and queer people are mentally ill and should be banned",
+    "label": "hate_speech"
+  },
+  {
+    "text": "All SC ST students are freeloaders who ruined our college reputation",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Discriminating and abusing students based on skin color and race",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Religious hatred and dehumanizing slurs against minorities",
+    "label": "hate_speech"
+  },
+  {
+    "text": "I will beat you tomorrow outside gate 2",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will kill you and your family if you talk to her again",
+    "label": "violence_threats"
+  },
+  {
+    "text": "kill yourself now, nobody wants you alive",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Go commit suicide and jump off the roof tonight",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Bringing a knife and gun to the campus to shoot you",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I am going to break your bones and smash your face after exams",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Tera murder kar dunga hostel ke bahar dekhna",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Going to stab you in the parking lot tomorrow morning",
+    "label": "violence_threats"
+  },
+  {
+    "text": "We will burn down their department building with petrol bombs",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will slash your throat you bastard",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Threatening to physically assault and beat you tonight",
+    "label": "violence_threats"
+  },
+  {
+    "text": "You should end your life right now, jump in front of a train",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Planting an explosive bomb in the library tomorrow",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Tujhe jaan se maar dunga agar kal college aaya to",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will track you down and shoot you in head",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Physical violence threats against college professors and students",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Slitting wrists and encouraging other students to self harm and die",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Terrorist attack threat on the annual university convocation",
+    "label": "violence_threats"
+  },
+  {
+    "text": "send me your OTP to claim money and lottery prize 50000 rupees",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Share your bank account password and OTP to receive university scholarship",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Earn 5000 rupees daily working from home click this link: bit.ly/easy-cash-fast",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Double your money in 24 hours guaranteed crypto betting scheme join telegram",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Pay 500 rupees registration fee to win iPhone 16 pro lottery immediately",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Click here to verify your college portal login or account will be suspended: fake-campus.xyz",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Online casino betting games high payout win real cash instantly",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Send your credit card number CVV and OTP to get free marks in university portal",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Investment scam guaranteed 100% returns in 3 days transfer money now",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Spam mass promotional message join our telegram betting channel",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Phishing attack enter your college credentials to get free wifi access",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Free recharge 1000 rupees click here immediately scam link",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Pay money on UPI for fake lucky draw and lottery reward",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Send your Aadhaar card and bank OTP to claim government laptop scheme",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Forex trading scam earn lakhs sitting at home transfer 2000 deposit",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Fake job offer pay security deposit for interview selection scam",
+    "label": "scams_spam"
+  },
+  {
+    "text": "sell me illegal drugs weed ganja cocaine in hostel 3",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Weed and MDMA available for sale in boys hostel room 204",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Leaked question paper for semester final exam available for 5000 rs",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Join our cheating network for online exam proxy and test answers",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "I have the original leaked physics exam question paper DM to buy",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Selling fake degree certificates and college marksheets",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Blackmail: I have your private photos, transfer 20k or I will post online",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Proxy attendance and fake identity cards for sale at cheap rate",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Selling prescription narcotics and sleeping pills without prescription in campus",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Hire someone to take your exams and hack university grading system",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Extortion demand pay money or face dire consequences",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Supplying charas hashish and illegal drugs inside college premises",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Semester end exam paper leak 100% verified original copy available",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Hacking into college server to change attendance and CGPA for cash",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Selling stolen laptops and mobile phones at half price",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Anyone free for coffee at canteen?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can you send the lab manual for physics?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who won the basketball match today?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Professor Verma extended the deadline by 2 days yay!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Lost my water bottle near room 302, please let me know if found.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Is the library open on Sunday evening?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Which electives are best for 3rd year CSE?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Need help debugging this React useEffect hook",
+    "label": "SAFE"
+  },
+  {
+    "text": "What is the syllabus for mid semester exams?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Any badminton players looking for a partner in campus hostel?",
+    "label": "SAFE"
+  },
+  {
+    "text": "The food in mess 2 was surprisingly good today haha",
+    "label": "SAFE"
+  },
+  {
+    "text": "Congrats to team Antigravity on winning the hackathon!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone share notes for operating systems unit 4?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for room partners for 2BHK flat near campus gate",
+    "label": "SAFE"
+  },
+  {
+    "text": "Workshop on Artificial Intelligence and Machine Learning this Saturday",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bus timing for university campus shuttle tomorrow morning",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone want to sell their engineering mathematics 2 book?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai kal class kitne baje hai?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Kal assignment submit karna hai kya?",
+    "label": "SAFE"
+  },
+  {
+    "text": "College fest ke tickets kahan milenge?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Exam bahut tough tha yaar but we survived",
+    "label": "SAFE"
+  },
+  {
+    "text": "Canteen me chai peene chalte hain",
+    "label": "SAFE"
+  },
+  {
+    "text": "Project presentation successfully complete ho gaya",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hostel wifi is working properly now",
+    "label": "SAFE"
+  },
+  {
+    "text": "Get free Netflix and Spotify accounts here, click bit.ly/freepremium",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Make 5000 INR daily working from home just typing captchas message WhatsApp +919876543210",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Claim your 1000 cashback reward immediately by scanning this QR code",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Send your UPI pin and OTP to receive campus scholarship disbursement",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Exclusive crypto investment bot gives 300% return in 24 hours join telegram",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Free iPhone 15 giveaway for all students, enter your bank account details here",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Direct message me for instant loan without verification or interest",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Ghar baithe paisa kamao daily 2000 rupaye WhatsApp pe message karo",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Paise double karne ki guaranteed scheme contact telegram group",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Earn quick cash without investment send 500 get 5000 back",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Congratulations you have won Rs 50000 lottery click link to claim",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Work from home part time job earn hourly without effort link below",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Telegram paid signal group 100% winning rate stock market crypto",
+    "label": "scams_spam"
+  },
+  {
+    "text": "I will find you after class and punch your face in",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Meet me at hostel parking if you want your head broken",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I'm going to bring a gun to the college tomorrow",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will stab you in the library if you speak again",
+    "label": "violence_threats"
+  },
+  {
+    "text": "You should end your life, go hang yourself",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will burn down your hostel room while you sleep",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Tera murder kar dunga agar tune usse baat ki toh",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Kal campus ke bahar mil tujhe jaan se maar dunga",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Tujhe hospital pahucha ke rahunga kal dekhna",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Ghar me aake peetunga tujhe agar complain ki toh",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Selling original semester exam question paper 5000 rupees DM fast",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Where can I buy weed or charas inside campus hostels?",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Selling MDMA and LSD pills for weekend party contact on Wickr",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Anyone providing proxy attendance and fake medical certificates?",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Will pay anyone who can hack the university LMS grading portal",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Ganja aur charas supply available in boys hostel contact signal app",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Original paper leak ho gaya hai buy karne ke liye dm karo",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Fake degree and college marksheet available for all branches",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "You are the ugliest human alive and everyone hates you",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Stop posting here you piece of trash nobody wants you",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "You dumb useless loser go cry in your corner",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Tu sabse bada chutiya hai aur ghatiya insaan hai",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Teri aukaat nahi hai yahan bolne ki bhosdike",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Kamine kutte tu mar kyu nahi jata",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Bhai tu ekdum madarchod hai chup baith",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "All people of that lower caste should be kicked out of campus",
+    "label": "hate_speech"
+  },
+  {
+    "text": "These religious minorities are all traitors and terrorists",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Trans people are mentally sick and have no rights",
+    "label": "hate_speech"
+  },
+  {
+    "text": "In logo ki community ko campus me aana allow nahi hona chahiye",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Unko reservation se aane wale losers ko padhne ka koi haq nahi hai",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Looking for paid girls for tonight in campus hotel",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Send sexy private photos on snapchat username sexyguy99",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Leaked MMS video of first year girl watch full clip here",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Direct message me for full nude video call service 500 rs",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "I want to have sex with her.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Nangi photos exchange karne ke liye telegram join karo",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Looking for an adult hookup tonight.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Nobody wants you in this group, get lost.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Can somebody explain normalization in DBMS?",
+    "label": "SAFE"
+  },
+  {
+    "text": "I left my umbrella near the main auditorium.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Found a pair of keys outside the library entrance.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Your parcel is waiting. Pay Rs 99 using this link.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Someone is offering hacking services to change CGPA.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "I am going to stab you outside the library.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "You are a pathetic loser and nobody respects you.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Ghar baithe daily 5000 kamao, bas WhatsApp pe message karo.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "That community is nothing but a problem for society.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Teri aukaat nahi hai mujhse baat karne ki.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "I want to exchange nude selfies.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "The law class covered legal consequences of making threats.",
+    "label": "SAFE"
+  },
+  {
+    "text": "DM me for private adult videos.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Women are too emotional to become good engineers.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "I can get you a fake degree without attending college.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Kisi ko railway station tak ride share chahiye?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Scholarship claim karne ke liye OTP share karo.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Library will close at 8 PM today according to the notice.",
+    "label": "SAFE"
+  },
+  {
+    "text": "I am bringing a weapon to campus tomorrow.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "We discussed sexual harassment prevention during today's seminar.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Send your UPI PIN to verify your student account.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "I hope everyone blocks this annoying loser.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "The professor extended the assignment deadline.",
+    "label": "SAFE"
+  },
+  {
+    "text": "I will make sure you leave campus injured.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "University fee refund available, submit bank details here.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Tu bahut bada chutiya hai.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Anyone joining the coding club workshop tomorrow?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who is interested in joining the photography club?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Mess menu says biryani tonight, finally!",
+    "label": "SAFE"
+  },
+  {
+    "text": "The workshop discussed cyberbullying and reporting abusive behavior.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Sexy private pictures for sale, DM for details.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "This idiot keeps ruining every discussion.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Foreign students should not be allowed to study here.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Scan this QR code to receive your cashback reward.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Our department is organizing a blood donation camp next week.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Anyone selling a used scientific calculator?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Good luck to everyone appearing for tomorrow's exam.",
+    "label": "SAFE"
+  },
+  {
+    "text": "The campus notice warns students about fake scholarship links.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Pay Rs 200 registration fee to receive a guaranteed job.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "You are useless and should stop posting.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Anyone interested in exchanging explicit photos?",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "I will beat you outside the college tomorrow.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Send intimate photos or videos to my account.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Does anyone know when the scholarship form closes?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone share today's attendance update?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Send bank details to unlock your student reward.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Can someone recommend a good laptop for programming?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Selling fake college degrees and marksheets.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "You will regret it when I catch you alone.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Watch explicit adult videos through this channel.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Hostel maintenance is fixing the water supply this afternoon.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Unko unki caste ki wajah se hostel mein alag rehna chahiye.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Work from home and earn thousands every day, message now.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Kamine, apni bakwas band kar.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Looking for someone for a sexual meetup tonight.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Transgender students should be banned from the hostel.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Drugs available for sale near the hostel.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "The IT department warned students not to share passwords or OTPs.",
+    "label": "SAFE"
+  },
+  {
+    "text": "SC and ST students are ruining the reputation of the college.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "You are such an embarrassing excuse for a student.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "I will smash your phone and then beat you.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Anyone know someone who can hack the university portal?",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Kya kisi ko computer networks ka syllabus pata hai?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Tujhe kal hostel ke bahar dekh lunga.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "I will break your face after class.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Congratulations! You won Rs 50,000. Click to claim.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "That religious community does not belong here.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Earn Rs 10,000 daily from home with zero effort.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "I will find you and attack you tonight.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "The football ground is reserved for the tournament today.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can we form a team for the upcoming hackathon?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Stolen phones available at very cheap prices.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Can someone arrange a person to take my exam for me?",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "I will burn your room down tonight.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Adult webcam chat available for interested students.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Join our Telegram group for guaranteed stock market profits.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Ladkiyan technical leadership ke liye suitable nahi hoti.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Send your naked pics on Telegram.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "People with disabilities should not receive scholarships.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "People of that religion are all dangerous.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Nude pics exchange karne ke liye DM karo.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Free iPhone giveaway, enter your bank details now.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "You are a worthless piece of trash.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Meet me after class if you want a fight.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Jump off the building and end your life.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "If you report me, I will hurt you.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Send your OTP to receive the college scholarship.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Mera calculator classroom mein reh gaya, kisi ko mila?",
+    "label": "SAFE"
+  },
+  {
+    "text": "I will kill you if you talk to my friend again.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Tujhe jaan se maar dunga, samjha?",
+    "label": "violence_threats"
+  },
+  {
+    "text": "You are the dumbest person in this class.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Selling prescription medicines without a prescription.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Private adult content exchange group open now.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Stop tagging me, you creep.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Disabled students are a burden on the university.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "All people from that region are dirty and dishonest.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Guaranteed crypto profit in 24 hours, invest immediately.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Bkl chup kar aur yahan se nikal.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Yaar aaj ka lecture kaafi interesting tha.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Proxy attendance service available for the whole semester.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "I am going to hurt you if you come near me again.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Anyone selling explicit videos through DM?",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Selling leaked semester exam papers for Rs 3000.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Students from lower castes should stay away from our group.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Where can I find the timetable for second semester?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Minority students should leave this campus.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Kal project submission hai, sab ready rehna.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Leaked paper available before tomorrow's exam.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "People from that ethnic group are criminals.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Gay students should not be allowed to participate in college events.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Looking for someone to hack my exam result.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Someone should beat that student up after class.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Free recharge ke liye link par click karo abhi.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Professor explained that hate speech against protected groups is prohibited.",
+    "label": "SAFE"
+  },
+  {
+    "text": "I will shoot you if you come to the event.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Lottery winner alert! Pay a small fee to receive your prize.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Saale nalayak, kuch kaam bhi kar liya kar.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "People from that caste are inferior to everyone else.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "College fest ke volunteers ki meeting 4 baje hai.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Join this group for uncensored porn clips.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Original question paper leaked, DM to buy it.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Don't make me hurt you in front of everyone.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Selling illegal drugs inside the hostel.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Go kill yourself, nobody needs you here.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Illegal substances available in hostel room 108.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Send me nude pictures in DM.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Who wants to join a group study session at 7?",
+    "label": "SAFE"
+  },
+  {
+    "text": "I want her private pictures, send them to me.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Mujhe apni private photos bhejo.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Stop bullying me, you loser.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Students from that caste should not be allowed in this college.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "The gym is open until 8 PM today.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Don't come near our group, nobody likes you.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Trans students ko college events se ban kar dena chahiye.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Fake student ID cards available for cash.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Get instant loan without documents, message on WhatsApp.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Bhai kal practical kis time hai?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Selling copied university certificates with fake signatures.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Double your money in one day, guaranteed returns.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Everyone laugh at this idiot from our class.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Paid adult chat available, message me.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Free premium Netflix accounts available, click the link.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Our professor uploaded the lecture recording.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Private nude video call available for payment.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Tu har jagah faltu bakwas karta rehta hai.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Stop bothering everyone, you disgusting person.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "I will break your bones if you do that again.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Can someone explain pointers in C?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Women are inferior to men and should not lead teams.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Aaj mess ka khana surprisingly acha tha.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Kal campus ke gate par mil, tujhe peetunga.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "That ethnic group should never be trusted.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "The placement cell posted a new internship opportunity.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Explicit photo exchange available on Telegram.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Need someone to alter my marks in the university database.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Bhosdike chup ho ja.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "This person keeps insulting everyone in the comments.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Is there a holiday on Monday?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Those immigrants should be removed from campus.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Who can break into the college server for money?",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Our cyber safety lecture covered how phishing scams steal OTPs.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Everyone should ignore this disgusting loser.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "I can arrange fake medical documents for attendance.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Does anyone have the lab manual for physics?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Fake attendance certificates available for money.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "What a pathetic human being you are.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "The sociology professor explained why hate speech harms minority communities.",
+    "label": "SAFE"
+  },
+  {
+    "text": "I am looking for a used engineering mathematics book.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone have the DBMS assignment questions?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Tu ek number ka bewakoof hai.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Your college account will be blocked unless you verify here.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Is religion ke log campus ke liye dangerous hain.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Send me your private body pictures.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "People of this race are naturally stupid.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Blackmailing a student for money using private photos.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Paise double karne ki 100% guaranteed scheme join karo.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Share your intimate pictures with me.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Threatening to physically attack another student tonight.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "The poster says 'stop bullying' and provides campus support contacts.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Send your ATM PIN and CVV for scholarship verification.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Tera murder kar dunga agar tune complaint ki.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Leaked private photos available in this group.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Adult video chat available tonight.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "I need a roommate for a flat near campus.",
+    "label": "SAFE"
+  },
+  {
+    "text": "The campus shuttle is delayed by about 15 minutes.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who has notes for computer graphics unit 3?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Queer people should have fewer rights on campus.",
+    "label": "hate_speech"
+  },
+  {
+    "text": "Click this link for free mobile recharge.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Congratulations to everyone who cleared the placement round!",
+    "label": "SAFE"
+  },
+  {
+    "text": "I am coming to your hostel to attack you.",
+    "label": "violence_threats"
+  },
+  {
+    "text": "Someone asked for leaked exam papers, but I reported the request.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can arrange proxy attendance for tomorrow's class.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Kisi ke paas operating systems ke notes hain?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Selling stolen laptops near campus gate.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Can anyone help me understand Bresenham's algorithm?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for a casual sexual encounter tonight.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Nangi photos ke liye mujhe message karo.",
+    "label": "sexual_content_nudity"
+  },
+  {
+    "text": "Shut up, you absolute idiot.",
+    "label": "harassment_abuse"
+  },
+  {
+    "text": "Can arrange fake internship certificates for students.",
+    "label": "illegal_acts"
+  },
+  {
+    "text": "Need a partner for the college badminton tournament.",
+    "label": "SAFE"
+  },
+  {
+    "text": "Canteen mein chai peene kaun aa raha hai?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Limited offer! Pay now and get 10x your money tomorrow.",
+    "label": "scams_spam"
+  },
+  {
+    "text": "Hey guys what's up",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hey what's up everyone",
+    "label": "SAFE"
+  },
+  {
+    "text": "Good morning guys, have a great day",
+    "label": "SAFE"
+  },
+  {
+    "text": "Good evening everyone",
+    "label": "SAFE"
+  },
+  {
+    "text": "How is everyone doing today?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Let's play cricket this evening at the ground",
+    "label": "SAFE"
+  },
+  {
+    "text": "Anyone playing football after 5pm?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Let's go for chai at the main gate",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who wants to grab lunch at the college canteen?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Is anyone free to hang out near the lake?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Happy Diwali to all friends and teachers!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Happy Holi everyone, enjoy safely!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Happy New Year guys!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Happy Eid Mubarak to everyone!",
+    "label": "SAFE"
+  },
+  {
+    "text": "All the best for tomorrow's exam guys",
+    "label": "SAFE"
+  },
+  {
+    "text": "Good luck with your placement interview!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Congratulations on getting placed at Google!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone have the syllabus copy for 4th sem?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who is the professor for database management systems?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can someone share the link for today's online class?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Is attendance mandatory for the guest lecture today?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Which textbook is recommended for computer networks?",
+    "label": "SAFE"
+  },
+  {
+    "text": "How to solve question 3 from assignment 2?",
+    "label": "SAFE"
+  },
+  {
+    "text": "When will the end sem timetable be released?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Library is very quiet and peaceful today",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for study partners for the upcoming midterms",
+    "label": "SAFE"
+  },
+  {
+    "text": "Does anyone want to form a group for the final year project?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Which specialization should I choose between AI and Cloud?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Dance club auditions starting at 4 PM in the audi",
+    "label": "SAFE"
+  },
+  {
+    "text": "Music society is looking for guitarists and drummers",
+    "label": "SAFE"
+  },
+  {
+    "text": "Robotics club workshop registration link is open",
+    "label": "SAFE"
+  },
+  {
+    "text": "Annual cultural fest dates announced for next month!",
+    "label": "SAFE"
+  },
+  {
+    "text": "Sports meet registrations close this Friday",
+    "label": "SAFE"
+  },
+  {
+    "text": "Who is performing at the celeb night this year?",
+    "label": "SAFE"
+  },
+  {
+    "text": "E-cell is organizing a startup pitch competition",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hostel mess menu for dinner today is paneer and roti",
+    "label": "SAFE"
+  },
+  {
+    "text": "Has anyone seen my black spectacles in room 204?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Found a college ID card near the fountain, DM me",
+    "label": "SAFE"
+  },
+  {
+    "text": "Is the campus gym open on weekends?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Looking for a flatmate in 3BHK near gate 2",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hostel warden announced room inspection for tomorrow",
+    "label": "SAFE"
+  },
+  {
+    "text": "Can anyone lend an umbrella? It's raining heavily",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai kya chal raha hai sab badhiya?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Kal subah 9 baje class hai kya?",
+    "label": "SAFE"
+  },
+  {
+    "text": "Canteen me samosa bahut tasty tha aaj",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai assignment bhej de please",
+    "label": "SAFE"
+  },
+  {
+    "text": "Kal basketball match dekhne chalte hain",
+    "label": "SAFE"
+  },
+  {
+    "text": "Exam khatam hone ke baad trip pe chalenge",
+    "label": "SAFE"
+  },
+  {
+    "text": "Bhai library me baith ke padhte hain",
+    "label": "SAFE"
+  },
+  {
+    "text": "Hostel me wifi theek se chal raha hai",
+    "label": "SAFE"
+  }
+]
